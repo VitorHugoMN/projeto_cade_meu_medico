@@ -11,3 +11,4 @@
     -Postgresql
 ### Arquitetura de software:
     
+<img width="1369" height="730" alt="image" src="https://github.com/user-attachments/assets/37a55f49-58cf-459f-817b-2c66e20a2e4c" />
