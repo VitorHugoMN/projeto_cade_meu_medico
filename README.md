@@ -5,3 +5,10 @@
     - Elison Monteiro
     - Vitor hugo
     - Pablo
+
+### Grupo de trabalho:
+    - Vitor Hugo Mendes Nogueira
+    - Ruan Pablo
+    - Elison Monteiro
+    - Pablo Macedo
+
